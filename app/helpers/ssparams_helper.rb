@@ -1,0 +1,2 @@
+module SsparamsHelper
+end

@@ -1,0 +1,2 @@
+module SsmodelsHelper
+end
